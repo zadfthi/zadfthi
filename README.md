@@ -11,3 +11,7 @@ I'm a student @Politeknik Harber University Vocation Campus Tegal and a UI/UX en
 -JavaScript`**
 
 ---
+
+### 🧰 Language and Tools
+
+<img align="left" alt="Java" width="30px" style="padding-right:10px;" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/illustrator/illustrator-line.svg" />
