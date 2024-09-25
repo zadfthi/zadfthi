@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @zadfthi
+- 👀 I’m interested in computer stuffs
+- 🌱 I’m currently learning Lua, HTML, Python, Javascript
+- 📫 How to reach me: dm me at ig @zadfthi
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: I like turtles
