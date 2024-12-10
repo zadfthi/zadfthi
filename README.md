@@ -2,7 +2,7 @@
 
 **`Developer/Editor`**
 
-I'm a CompSci student @Politeknik Harapan Bersama Vocation Campus Tegal and a UI/UX enthusiast. I'm trying to learn programming as of now to build my own version of the digital world that I desire.
+I'm trying to learn programming as of now to build my own version of the digital world that I desire.
 
 ---
 
